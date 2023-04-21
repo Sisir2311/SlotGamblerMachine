@@ -1,4 +1,4 @@
-# SlotGamblerMachine
+# SlotGamblerMachine <img src = "https://github.com/Sisir2311/SlotGamblerMachine/actions/workflows/super-linter.yml/badge.svg" alt = "" align = "right"> 
 
 <br>
 <div align="center">
